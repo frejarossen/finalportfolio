@@ -142,16 +142,14 @@ html {
 }
 
 .pic-of-me img {
-    width: 230px;
-    height: 300px;
-    margin-top: -230px;
+    width: 210px;
+    height: 330px;
+    margin-top: 30px;
     max-width: 100%;
+    border-radius: 10px;
 }
 
-.pic-of-me img {
+.pic-of-me {
     display: flex;
-    flex-direction: column;
-    align-self: flex-start;
-    margin-left: 200px;
-    margin-top: 50px;
+    justify-content: center;
 }
