@@ -213,3 +213,21 @@ html {
     margin-top: -250px;
     margin-right: 25px;
 }
+
+@media (max-width: 500px) {
+    .deco img {
+        width: 150px;
+        height: 150px;
+        margin-right: -25px;
+    }
+}
+
+@media (max-width: 500px) {
+    .header-art img {
+        width: 300px;
+        height: 150px;
+        margin-bottom: -50px;
+
+
+    }
+}
