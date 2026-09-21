@@ -1,0 +1,157 @@
+body {
+    background-color: #FFEBD6;
+}
+
+html {
+    scroll-behavior: smooth;
+
+    /* header */
+
+    header {
+        color: #992645;
+        font-size: 40px;
+        padding-left: 15px;
+    }
+
+    header h1 {
+        margin: 20px;
+        text-align: center;
+        padding-bottom: 1px;
+    }
+
+    /* menu - navigation */
+    .menu ul {list-style: none;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        color: #992645;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-style: hidden;
+        background-color: #E6C6A3;
+        font-size: 25px;
+        height: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 10px;
+    }
+
+    .menu a {
+        text-decoration: none;
+    }
+
+    .menu li:hover {
+        text-decoration: underline;
+    }
+
+    .menu ul {
+        margin-top: 40px;
+    }
+
+    /* paragraphs */
+
+    #about-me {
+        color: black;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-style: hidden;
+        background-color: #E6C6A3;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 10px;
+    }
+
+    #about-me {
+        padding-bottom: 50px;
+    }
+
+
+
+
+    #past-education {
+        color: black;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-style: hidden;
+        background-color: #E6C6A3;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 10px;
+    }
+
+
+
+
+    #past-jobs {
+        color: black;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-style: hidden;
+        background-color: #E6C6A3;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 10px;
+    }
+
+
+
+    #extra-info {
+        color: black;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-style: hidden;
+        background-color: #E6C6A3;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 10px;
+    }
+
+
+
+    #contact-me {
+        color: black;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-style: hidden;
+        background-color: #E6C6A3;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 10px;
+    }}
+
+
+/* photos */
+
+.header-art img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    object-fit: cover;
+    height: 150px;
+    width: 550px;
+}
+
+.header-art img {
+    margin-top: -50px;
+}
+
+.pic-of-me img {
+    width: 230px;
+    height: 300px;
+    margin-top: -230px;
+    max-width: 100%;
+}
+
+.pic-of-me img {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    margin-left: 200px;
+    margin-top: 50px;
+}
