@@ -28,7 +28,9 @@ html {
         color: #992645;
         padding: 10px;
         margin-bottom: 20px;
-        border-style: hidden;
+        border-style: double;
+        border-width: 5px;
+        border-color: #828863;
         background-color: #E6C6A3;
         font-size: 25px;
         height: 50px;
@@ -56,7 +58,9 @@ html {
         color: black;
         padding: 10px;
         margin-bottom: 20px;
-        border-style: hidden;
+        border-style: double;
+        border-color: #828863;
+        border-width: 5px;
         background-color: #E6C6A3;
         font-size: 20px;
         margin-left: 20px;
@@ -69,19 +73,13 @@ html {
     }
 
 
-
-
-
-
-
-
-
-
     #past-education {
         color: black;
         padding: 10px;
         margin-bottom: 20px;
-        border-style: hidden;
+        border-style: double;
+        border-color: #828863;
+        border-width: 5px;
         background-color: #E6C6A3;
         font-size: 20px;
         margin-left: 20px;
@@ -96,7 +94,9 @@ html {
         color: black;
         padding: 10px;
         margin-bottom: 20px;
-        border-style: hidden;
+        border-style: double;
+        border-color: #828863;
+        border-width: 5px;
         background-color: #E6C6A3;
         font-size: 20px;
         margin-left: 20px;
@@ -110,7 +110,9 @@ html {
         color: black;
         padding: 10px;
         margin-bottom: 20px;
-        border-style: hidden;
+        border-style: double;
+        border-color: #828863;
+        border-width: 5px;
         background-color: #E6C6A3;
         font-size: 20px;
         margin-left: 20px;
@@ -124,7 +126,9 @@ html {
         color: black;
         padding: 10px;
         margin-bottom: 20px;
-        border-style: hidden;
+        border-style: double;
+        border-color: #828863;
+        border-width: 5px;   
         background-color: #E6C6A3;
         font-size: 20px;
         margin-left: 20px;
